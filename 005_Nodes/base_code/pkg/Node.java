@@ -1,4 +1,6 @@
 package pkg;
+
+
 import java.util.Scanner;
 import java.util.Random;
 
@@ -16,7 +18,7 @@ public class Node {
 	}
 	public int getData(){
 		return data;
-	}	
+	}
 	public Node getNext(){
 		return next;
 	}
