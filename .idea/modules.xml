@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001_Review/001_Review.iml" filepath="$PROJECT_DIR$/001_Review/001_Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_BigO/002_BigO.iml" filepath="$PROJECT_DIR$/002_BigO/002_BigO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_MergeSort/003_MergeSort.iml" filepath="$PROJECT_DIR$/003_MergeSort/003_MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004_QuickSort/004_QuickSort.iml" filepath="$PROJECT_DIR$/004_QuickSort/004_QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005_Nodes/005_Nodes.iml" filepath="$PROJECT_DIR$/005_Nodes/005_Nodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006_Singly_Linked_Lists/006_Singly_Linked_Lists.iml" filepath="$PROJECT_DIR$/006_Singly_Linked_Lists/006_Singly_Linked_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007_Stacks/007_Stacks.iml" filepath="$PROJECT_DIR$/007_Stacks/007_Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008_Queue/008_Queue.iml" filepath="$PROJECT_DIR$/008_Queue/008_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Super_Poole23.iml" filepath="$PROJECT_DIR$/Super_Poole23.iml" />
+    </modules>
+  </component>
+</project>
