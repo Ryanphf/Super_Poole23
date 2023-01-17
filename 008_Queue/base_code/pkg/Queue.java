@@ -5,7 +5,7 @@ import java.util.Random;
 
 
 public class Queue {
-	/*  FIRST IN FIRST OUT  */
+	/*  FIRST IN FIRST OUT   */
 	Node head;
 	Node tail;
 
